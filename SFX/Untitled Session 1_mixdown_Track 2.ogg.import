@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Untitled Session 1_mixdown_Track 2.ogg-fbbd86fa63b84f23995373e31fe514a1.oggstr"
+
+[deps]
+
+source_file="res://SFX/Untitled Session 1_mixdown_Track 2.ogg"
+dest_files=[ "res://.import/Untitled Session 1_mixdown_Track 2.ogg-fbbd86fa63b84f23995373e31fe514a1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

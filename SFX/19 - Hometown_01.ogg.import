@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/19 - Hometown_01.ogg-04f8542384b15497a9d6624e7a737a3f.oggstr"
+
+[deps]
+
+source_file="res://SFX/19 - Hometown_01.ogg"
+dest_files=[ "res://.import/19 - Hometown_01.ogg-04f8542384b15497a9d6624e7a737a3f.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

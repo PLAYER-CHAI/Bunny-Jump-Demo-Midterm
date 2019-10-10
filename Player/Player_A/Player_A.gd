@@ -58,7 +58,7 @@ func jump(): #กระโดด
 			print("I'm jumped")
 	if is_on_floor():
 		jump_count = 0
-
+	
 func _on_Area2D_body_entered(body):
-	if body.name == "Player_A":
-		get_tree().change_scene("res://Scenes/GOAL_Scn.tscn")
+		if body.name == "Player_A":
+			get_tree().change_scene("res://Scenes/GOAL_Scn.tscn")
